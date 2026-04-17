@@ -5,7 +5,6 @@
 Welcome to my GitHub!
 
 #### 🚀 About Me
-- 🔭 I’m currently working as a Software Engineer at AimeSoft.
 - 🎓 I studied Mathematics and Informatics at Hanoi University of Science (2021-2025).
 - 💻 I have experience developing robust Java Backend applications, most notably an identity-service focused on system security (Spring Security, JWT) and scalable user management.
 - ⚙️ I enjoy solving complex backend logic and optimizing databases. I have a strong foundation in data structures and algorithms, consistently honed through competitive programming and LeetCode.
