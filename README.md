@@ -55,20 +55,25 @@ Welcome to my GitHub!
         <img
             src="https://github-profile-trophy.vercel.app/?username=leetuandat&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
     </a>
-    <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=leetuandat&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetuandat&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-    </a>
-    <br>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img
-            src="https://streak-stats.demolab.com?user=leetuandat&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
-    </a>
+
+<br><br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=leetuandat&show_icons=true&hide=stars,contribs&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetuandat&layout=compact&theme=synthwave&hide_border=true" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img
+        src="https://streak-stats.demolab.com?user=leetuandat&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 </div>
 
 ---
